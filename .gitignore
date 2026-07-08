@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+simulator/sensor_data.db
+ml/anomaly_model.pkl
+ml/features.csv
+frontend/dashboard/node_modules/
+*.pyc
+__pycache__/
+
+# Arduino credentials (never commit real credentials)
+# esp32_sensor.ino is safe - credentials already replaced with placeholders
