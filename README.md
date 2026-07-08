@@ -9,16 +9,16 @@ Built as a portfolio project across 3 weeks — covering data simulation, ML tra
 ## 📸 Screenshots
 
 ### Live Dashboard — All Rooms (anomalies highlighted in purple)
-![All Rooms Dashboard](screenshots/ss4.jpg)
+![All Rooms Dashboard](screenshots/ss1.jpg)
 
 ### Esp32 Room — Real Hardware Data (live temperature & humidity from DHT22)
-![ESP32 Room](screenshots/ss1.jpg)
+![ESP32 Room](screenshots/ss4.jpg)
 
 ### Motion & Power Charts with Anomaly Detection
-![Motion and Power](screenshots/ss3.jpg)
+![Motion and Power](screenshots/ss2.jpg)
 
 ### Recent Anomalies Feed
-![Anomalies Feed](screenshots/ss2.jpg)
+![Anomalies Feed](screenshots/ss3.jpg)
 
 ---
 
